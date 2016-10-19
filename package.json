@@ -1,0 +1,24 @@
+{
+  "name": "amcharts-theme-subtle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amcharts-theme-subtle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanWieland/amcharts-theme-subtle.git"
+  },
+  "keywords": [
+    "amCharts",
+    "theme",
+    "subtle"
+  ],
+  "author": "Evan Wieland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanWieland/amcharts-theme-subtle/issues"
+  },
+  "homepage": "https://github.com/EvanWieland/amcharts-theme-subtle#readme"
+}
